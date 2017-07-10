@@ -9,9 +9,5 @@ We create RestFul Web Services using Jersey(JAX-RS 2.0), where we define resourc
 to access user-defined values, and subresources to consume specific resource methods.
 
 Technologies Used :-
- 1]REST
- 2]Jersey Framework
- 3]Java
- 4]Apache Tomcat
- 5]Postman
+REST, Jersey Framework, Java, Apache Tomcat, Postman
 
